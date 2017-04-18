@@ -1,0 +1,467 @@
+{
+  "settings": {
+    "name": "selpo_2",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      }
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 35,
+    "versionPublish": "3.12.1",
+    "favicon": "@PROJECT_PATH@/assets/images/128x128.png",
+    "noImageResize": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "content1-0",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "1",
+            "bgColor": "#ff3d3b"
+          },
+          "text": "<p><b>ВНИМАНИЕ!  Мы уже выслали Вашу копию PDF книги на Email.  Вы сможете скачать ее по ссылке, высланной на Вашу электронную почту уже через 2-3 минуты.&nbsp;</b></p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "25px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-q",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "Пожалуйста, не начинайте изучение этой книги, <br>пока не прочитаете внимательно информацию ниже.",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-3",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>Согласно данным исследовательской компании Euromonitor International, рынок продукции, продающейся в России с пометкой «эко», стабильно растет и его объем уже превышает $147,7 млн</blockquote>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1326.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": false,
+            "showButton": false
+          },
+          "title": "Хотите Иметь Свой Бизнес Производя Натуральные Продукты Питания?",
+          "text": "<p>На динамично развивающемся и перспективном рынке России</p><p><b><br></b></p><p>.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "32px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-r",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "У нас есть для Вас интересное предложение",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-9",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>Но сначала давайте познакомимся. Меня зовут Александр Зуб, я являюсь руководителем проекта Интернет-рынок натуральных продуктов «Сельпо», который специально создан для садоводов, пчеловодов, владельцев личных подсобных хозяйств, фермеров, а также небольших агропредприятий и переработчиков сельхозпродукции.</blockquote><blockquote>Более подробно о проекте вы узнаете из книги, которую мы вам выслали. Здесь я только отмечу, что наш проект реализуется при поддержке Министерства сельского хозяйства Новосибирской области и Сибирского университета потребительской кооперации.</blockquote><blockquote>И хотя корни проекта новосибирские, участвовать в нём могут производители со всех регионов России.</blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-o",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "2",
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#header3-h\" data-toolbar=\"-mbrBtnMove\">ПОЛУЧИТЬ ПРЕДЛОЖЕНИЕ</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"http://selpo.club/kak_prodat_product.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Нет, спасибо. Я просто хочу получить свою книгу</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "48px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-e",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1500.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "Почему Мы Делаем Это Предложение Вам?",
+          "caption": "<p>Вы заказали PDF-книгу «Как продавать продукты, не выходя из дома». Значит, У ВАС ЕСТЬ ИЗЛИШКИ ВЫРАЩЕННОЙ ПРОДУКЦИИ. Это говорит о том, что<b>&nbsp;</b>Ваш профессиональный уровень <b>ДОСТАТОЧЕН </b>для того, чтобы на этом зарабатывать деньги.&nbsp;</p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "32px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-s",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "Как это сделать",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-c",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<br><blockquote>Во-первых, как продавать продукты, которые вы выращиваете сейчас, вы узнаете уже через несколько минут из нашей книги.</blockquote><blockquote>Во-вторых, мы можем предложить Вам самые эффективные технологии по круглогодичному выращиванию овощей, фруктов, ягод и зелени. А также самые передовые технологии по кролиководству и птицеводству для использования на дачных и приусадебных участках.</blockquote><blockquote><b>365 дней в году ваш «зеленый конвейер» будет производить экологически чистую продукцию и приносить Вам прибыль.&nbsp;</b></blockquote><blockquote><p>Сразу хотим предупредить, мы не являемся разработчиками этих технологий. Этим занимаются наши партнеры. Более того, эту информацию вы можете найти в интернете в свободном доступе. Правда, потратив на это кучу своего времени, чтобы отделить действительно ценные предложения от информационной шелухи.</p><p><br></p><p>Тогда в чём ценность Вашего предложения? Можете спросить Вы.</p></blockquote>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-j",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-2000x1333.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "В  Чём Ценность Нашего Предложения?",
+          "caption": "<p>Ценность предложения состоит в том, что принимая его, вы становитесь частью нашей Команды. А это значит, что Вам будет доступен не только весь наш опыт, но и опеспечена наша поддержка. Мы будем заинтересованы в Вашем успехе также как и Вы. Ведь от того, насколько успешен будет Ваш бизнес, настолько успешны будем и мы.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-k",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<br><blockquote>Мы взялись за очень важное дело, которое решает проблемы огромного количества людей. Сейчас мы находимся в самом начале своего пути и <b>Вы можете стать частью нашей команды</b>. Вы можете стать первопроходцем и потом передавать свой опыт другим. Или пойти проторённой дорогой, опираясь на опыт предшественников. Выбор зависит только от вас!</blockquote><blockquote>В любом случае мы будем рады сотрудничеству с вами!</blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-d",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "2",
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#header3-h\" data-toolbar=\"-mbrBtnMove\">ПОЛУЧИТЬ ПРЕДЛОЖЕНИЕ</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"http://selpo.club/kak_prodat_product.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Нет, спасибо. Я просто хочу получить свою книгу.</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-m",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1330.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Если Вы Предприниматель",
+          "text": "<p>Вам по душе общение с людьми и вы получаете удовольствие, помогая другим. Тогда мы можем предложить вам стать организатором городского стола-заказов, для сбыта натуральных продуктов, произведенных сельскими жителями.&nbsp;</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-n",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>Если Вы амбициозный человек, то для Вас у нас есть особое предложение. Нами разработана схема, как используя проект \"Сельпо\" можно добиться победы на следующих выборах в Государственную Думу или в местные органы власти. При минимальных финансовых затратах. И совершенно неожиданно для соперников. &nbsp;</blockquote>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "32px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-h",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Вам может показаться странным, но мы сделали предложение платным",
+          "meta": "Сумма, правда, небольшая, всего 270 рублей, но всё равно, ТАК никто не делает. Мы сделали. Почему?"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-p",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p>Ответ простой. Мы ищем для себя партнеров, которые МОГУТ и ХОТЯТ заниматься любимым для себя делом - выращиванием экологически чистых натуральных продуктов.&nbsp;</p><p><br></p><p>Хотим заметить, что такие предложения мы делаем не всем. Вам мы сделали его ЕДИНСТВЕННЫЙ раз. И только потому, что своей заявкой вы фактически подтвердили, что производить продукты в избытке ВЫ МОЖЕТЕ.</p></blockquote><blockquote><p>А небольшую цену на наше предложение мы поставили затем, чтобы сразу отсеять любопытствующих и оставить только тех, кто действительно ХОЧЕТ сделать из своего увлечения БИЗНЕС.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Можете считать это вступительным взносом в нашу команду. </span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Э</span><span style=\"font-size: 1.09rem; line-height: 1.5;\">ти деньги Вы можете потратить на среднего качества \"бизнес-ланч\" или получить Нашу поддержку в создании Вашего Бизнеса.&nbsp;</span><span style=\"font-size: 1.09rem; line-height: 1.5;\">Выбор за Вами.</span></p></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-l",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "1",
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">ХОЧУ ПОЛУЧИТЬ ПРЕДЛОЖЕНИЕ И СТАТЬ ЧЛЕНОМ КОМАНДЫ</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"http://selpo.club/kak_prodat_product.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Нет, спасибо. Я просто хочу получить свою книгу.</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "36px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-y",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "2",
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Мы Желаем Вам Удачи И Много Денег!",
+          "meta": "Команда Интернет-рынка натуральных продуктов \"Сельпо\", 2017"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-v",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-128x128.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Aдрес</strong><br>Россия, г. Новосибирск<br>Гусинобродское шоссе, 62",
+          "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Контакты</b></span></font><br>\nEmail: info@selpo.club<br><br>",
+          "text3": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Ссылки</b></span></font><br><a href=\"http://selpo.club\" target=\"_blank\">www.selpo.club</a><br>\n<a href=\"https://vk.com/selpo.club\" target=\"_blank\">Мы ВКонтакте</a>"
+        }
+      ]
+    }
+  }
+}
